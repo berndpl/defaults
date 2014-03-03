@@ -1,4 +1,4 @@
 defaults
 ========
 
-dotfiles and convenience scritps
+dotfiles and convenience scripts
