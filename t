@@ -12,6 +12,7 @@ list =  [
             ['Apache Access Log','sudo tail -f /var/log/apache2/access.log'],
             ['Apache Error Log','sudo tail -f /var/log/apache2/error.log'],
             ['System Log','sudo tail -f /var/log/syslog'],
+            ['crontabs','sudo vim /etc/crontab'],
             ['htdocs','cd /var/www/ && ls'],
 ]
 
